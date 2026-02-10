@@ -1,46 +1,66 @@
-# Astro Starter Kit: Basics
+# Hi there, I'm Leven Rochana! 👋
 
-```sh
-bun create astro@latest -- --template basics
-```
+> [!NOTE]
+> I'm a "Digital Architect" who loves building **Web Apps** and **Tools**
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## ⚔️ The Arsenal
 
-## 🚀 Project Structure
+_A collection of frameworks, libraries, and tools I use to build my creations._
 
-Inside of your Astro project, you'll see the following folders and files:
+### Front-end
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+![levenrok's Arsenal for Front-end](https://skillicons.dev/icons?i=svelte,astro,nextjs,tailwind)
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+### Back-end
 
-## 🧞 Commands
+![levenrok's Arsenal for Back-end](https://skillicons.dev/icons?i=nodejs,bun,postgres,redis)
 
-All commands are run from the root of the project, from a terminal:
+### Infrastructure
 
-| Command               | Action                                           |
-| :-------------------- | :----------------------------------------------- |
-| `bun install`         | Installs dependencies                            |
-| `bun dev`             | Starts local dev server at `localhost:4321`      |
-| `bun build`           | Build your production site to `./dist/`          |
-| `bun preview`         | Preview your build locally, before deploying     |
-| `bun astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `bun astro -- --help` | Get help using the Astro CLI                     |
+![levenrok's Arsenal for Infrastructure](https://skillicons.dev/icons?i=docker,vercel)
 
-## 👀 Want to learn more?
+---
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 🗣 Dialects
+
+_The languages I speak fluently to machines._
+
+### Primary
+
+![levenrok's Primary Dialects](https://skillicons.dev/icons?i=c,js,ts)
+
+### Secondary
+
+![levenrok's Secondary Dialects](https://skillicons.dev/icons?i=bash)
+
+### In-Progress
+
+![levenrok's In-Progress Dialects](https://skillicons.dev/icons?i=zig,rust)
+
+---
+
+## 🚀 Deployments & Research
+
+_Active projects showing my skills in practice._
+
+| Project                                               | Focus                         | Stack     |
+| :---------------------------------------------------- | :---------------------------- | :-------- |
+| [**Mimir**](https://github.com/levenrok/mimir)        | Low-level programming         | C, SQLite |
+| [**NixOS Config**](https://github.com/levenrok/nixos) | Reproducible dev environments | Nix, Bash |
+
+---
+
+## 📈 Tactical Overview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=levenrok&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=levenrok&theme=catppuccin-latte">
+  <img alt="levenrok's GitHub Stats" src="https://streak-stats.demolab.com/?user=levenrok">
+</picture>
+
+---
+
+## 📡 Intercepts
+
+- 📨 **Transmission:** [levenrok@proton.me](mailto:levenrok@proton.me)
+- 🌐 **Coordinates:** [levenrok.github.io](https://levenrok.github.io)
