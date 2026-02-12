@@ -10,6 +10,9 @@ export default defineConfig({
     integrations: [svelte()],
 
     vite: {
+        build: {
+            chunkSizeWarningLimit: 1000,
+        },
         plugins: [tailwindcss()],
     },
 });

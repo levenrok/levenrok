@@ -26,6 +26,7 @@
             bun
 
             astro-language-server
+            svelte-language-server
             typescript-language-server
             tailwindcss-language-server
           ];
